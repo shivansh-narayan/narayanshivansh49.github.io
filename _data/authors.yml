@@ -24,9 +24,9 @@ author1:
   # Comment/uncommet to show/hide
   # Rearrange to change the order in which they appear
   social:
-    twitter:         photocyte
-    github:          photocyte
-    # email:           mailto:<mail@domain.tld>
+    #twitter:         photocyte
+    github:          narayanshivansh49
+    email:           mailto:narayanshivansh49@gmail.com
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
     # google:          <number>
@@ -55,7 +55,7 @@ author1:
     # npm:             <username>
     # hackernews:      <username>
     # trello:          <firstnamelastname>
-    # linkedin:        <firstname-lastname-string>
+    linkedin:        shivansh
     # xing:            <firstname_lastname_counter>
     # blogger:         <number>
     # delicious:       <username>
