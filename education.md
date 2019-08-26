@@ -2,15 +2,20 @@
 layout: page
 title: Education
 ---
-## Birla Institute of Technology
+## Birla Institute of Technology 
 
->Information Technology
+>2017 – 2021
 
+BE - Bachelor of Engineering, Information Technology, 7.25(Absolute Grading)
 
 ## Sunbeam School , Varuna
 
->CBSE ka likhna hai
+>2014 – 2016
 
-## St. josephs Convent School
+12th (Senior Secondary Examination), 89.6 %
 
->ICSE ka Likhna hai
+## St. Josephs Convent School, Varanasi
+
+>2014
+
+10th (Secondary Examination), 89.00 %

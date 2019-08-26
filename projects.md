@@ -7,19 +7,30 @@ menu: true
 order: 1
 ---
 
-† = co-first authors ; * = mentored undergraduate authors
+# Projects
 
-**Fallon, T.R**. †, Lower, S.E. †, Chang, C.-H., Bessho-Uehara, M., Martin, G.J., Bewick, A.J., Behringer, M., Debat, H.J., Wong, I., Day, J.C., Suvorov, A., Silva, C.J., Hall D.W., Schmitz R.J., Nelson D.R., Lewis, S., Shigenobu, S., Bybee S.M., Larracuente, A.M., Oba, Y., Weng, J.-K. (2017). Firefly genomes illuminate the origin and evolution of bioluminescence. [eLife 2018;7:e36495](https://elifesciences.org/articles/36495)
+## [Restaurant Backend](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Fgithub%2Ecom%2FAbhishekChd%2FRestaurantBackend&amp;urlhash=L5Fj&trk=public_profile-settings_project_title)
 
-**Fallon, T.R.**, Li, F.-S., Vicent, M.A.*, and Weng, J.-K. (2016). Sulfoluciferin is Biosynthesized by a Specialized Luciferin Sulfotransferase in Fireflies. [Biochemistry 55, 3341–3344.](https://pubs.acs.org/doi/abs/10.1021/acs.biochem.6b00402)
+May 2019 – June 2019
 
-Weng, J.-K., Behringer, M., Bybee S., **Fallon T.R.**, Larracuente, A., Lewis, S., Martin, G., and Lower, S. (2016). Experiment - Illuminating the firefly genome. [http://experiment.com/projects/illuminating-the-firefly-genome/](http://experiment.com/projects/illuminating-the-firefly-genome/) DOI: 10.18258/6893
+It was a team project(3 developers).
 
-Al-Wathiqui, N. †, **Fallon, T.R.** †, South, A., Weng, J.-K., and Lewis, S.M. (2016). Molecular characterization of firefly nuptial gifts: a multi-omics approach sheds light on postcopulatory sexual selection. [Scientific Reports 6, 38556.](https://www.nature.com/articles/srep38556)
+We developed a Restaurant side android application for a food ordering platform Qeats.
+I was responsible for backend and API development in which I created the business logic and API structure using MongoDb and JAVA Spring Boot.
 
-Torrens-Spence, M.P. †, **Fallon, T.R.**†, and Weng, J.K. (2016). A Workflow for Studying Specialized Metabolism in Nonmodel Eukaryotic Organisms. [In Methods in Enzymology, S.E. O’Connor, ed. (Academic Press), pp. 69–97.](https://www.sciencedirect.com/science/article/pii/S0076687916001270?via%3Dihub)
+##  [Proxy-Manager](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Fgithub%2Ecom%2Fnarayanshivansh49%2FProxy-Manager&amp;urlhash=ZKiO&trk=public_profile-settings_project_title)
+This Android Application will help you to keep track of your attendance.
+Features-
+Add or remove subjects, Mark Attendance, Send automatic messages asking for proxy from the notification panel itself, Send Custom Text Messages to your contacts, Set Alarm
+Build With- Android Studio 3.0
+Minimum SDK- 22
 
-**Fallon, T.R.**, and Weng, J.-K. (2014). A Molecular Gauge for Nitrogen Economy in Plants. [Cell 159, 977–978.](https://www.cell.com/cell/fulltext/S0092-8674(14)01438-X)
+##  [Tic-Tac-Toe with AI(Java)](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Fgithub%2Ecom%2Fnarayanshivansh49%2Ftictactoe_with_AI&amp;urlhash=T5CR&trk=public_profile-settings_project_title)
 
-Zhao, R., **Fallon, T.R.**, Saladi, S.V., Pardo-Saganta, A., Villoria, J., Mou, H., Vinarsky, V., Gonzalez-Celeiro, M., Nunna, N., Hariri, L.P., et al. (2014). Yap Tunes Airway Epithelial Size and Architecture by Regulating the Identity, Maintenance, and Self-Renewal of Stem Cells. [Developmental Cell 30, 151–165.](https://www.cell.com/developmental-cell/abstract/S1534-5807(14)00375-X)
+A famous game with a 3x3 field. There are three modes in this game:- user, easy, medium, hard
+Any two can be Selected(user-user,user-hard,hard-hard....)
+The Hard Level is implemented Through Minimax Algorithm and is unbeatable.
+Tech Used-
+Java8
+IntelliJ IDEA Ultimate.
 
