@@ -52,15 +52,15 @@ author:
 
 # Add links to the sidebar.
 menu:
+  - title:             About
+    url:               /about/
   - title:             Education
     url:               /education/
   - title:             Projects
     url:               /projects/
-  - title:             Experience
+  - title:             Experince
     url:               /exp/
-  - title:             Blog
-    url:               /posts/
-  - title:             Media & Press
+  - title:             yha kya daala jaye
     url:               /media_and_press/
 
 
