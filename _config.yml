@@ -20,7 +20,7 @@ baseurl:               ''
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Shivansh
+title:                 Shivansh Narayan
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
@@ -30,12 +30,12 @@ description:           >
 
 # A shorter description for the sidebar.
 tagline:               >
-  pre final year I.T Student at BIT Mesra
+  Pre final year I.T Student at BIT Mesra
 # A Jekyll theme with JavaScript powers.
 # Open `_config.yml` to edit this text.
 
 # A list of keywords for your blog
-keywords:              [biochemistry,natural products,bioinformatics]
+keywords:              [BIT,Mesra,I.T]
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
@@ -53,11 +53,11 @@ author:
 # Add links to the sidebar.
 menu:
   - title:             Education
-    url:               /publications/
+    url:               /education/
   - title:             Projects
-    url:               /research/
+    url:               /projects/
   - title:             Experience
-    url:               /about/
+    url:               /exp/
   - title:             Blog
     url:               /posts/
   - title:             Media & Press
