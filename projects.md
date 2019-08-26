@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Publications
+title: Projects
 description: >
- **Selected publications**
+ **for github click on the respective title**
 menu: true
 order: 1
 ---
