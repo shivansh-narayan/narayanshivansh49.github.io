@@ -52,11 +52,11 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Publications
+  - title:             Education
     url:               /publications/
-  - title:             Research
+  - title:             Projects
     url:               /research/
-  - title:             About
+  - title:             Experience
     url:               /about/
   - title:             Blog
     url:               /posts/
