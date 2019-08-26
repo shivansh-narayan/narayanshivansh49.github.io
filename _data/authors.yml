@@ -2,25 +2,20 @@
 # Must be the same as `author` in `_config.yml`.
 # Change `author1` to your shortname.
 author1:
-  name:              Timothy Fallon
-  email:             tfallon@ucsd.edu
+  name:              Shivansh Narayan
+  email:             narayanshivansh49@gmail.com
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-   I am a postdoctoral researcher in the [Moore Lab](http://scrippsscholars.ucsd.edu/bsmoore) at the Scripps Institution of Oceanography and UC San Diego. I joined the Moore Lab in July 2019. I completed my PhD in the [Weng Laboratory](http://wenglab.wi.mit.edu/) of the Department of Biology of the Massachusetts Institute of Technology. 
-
-   My dissertation research focused on characterizing the specialzed metabolism of [firefly luciferin](https://en.wikipedia.org/wiki/Firefly_luciferin). My PhD research involved *de novo* transcriptomic and genomic sequencing and assembly, recombinant and crude enzymology, and LC-MS. I was a founding member of the *Photinus pyralis* (Big Dipper firefly) genome project, leading to the first linkage group resolution genome of any firefly. I’m interested in comparative genomic approaches to decipher metabolic questions generally.
-
-   Key findings of my PhD research include:
-
-   * Sequencing and assembly of the *Photinus pyralis* (Big Dipper Firefly) genome, and its comparison to other bioluminescent beetles, leading to the finding that click-beetle and firefly luciferase evolved separately
-   * The discovery of sulfoluciferin and luciferin sulfotransferase, which we now understand are conserved in all fireflies (Lampyridae)
+    I am currently pursuing my Bachelor of Engineering degree in Information Technology at Birla Institute of Technology,
+    Mesra. I have been programming since 2017, starting off with BASIC and then moving on to C and Java.
+    Currently I am focusing on Android App Development,Algorithmic Development and Competitive Coding. 
+   
 
    ### More information
    * Curriculum vitae (CV): [Timothy_R_Fallon_CV_PW-is-Winter2019.pdf](/CVs/Timothy_R_Fallon_CV_PW-is-Winter2019.pdf) (CV password protected with **Winter2019** to prevent webcrawler email spam)
-   * [ORCID: 0000-0002-3048-7679](https://orcid.org/0000-0002-3048-7679)
-   * [Google Scholar publications and citations](https://scholar.google.com/citations?user=CEPlauQAAAAJ&hl=en)   
+      
 
    ### Miscellaneous endevours
    * In 2017 We launched the datasite for the firefly genome project: <http://www.fireflybase.org>

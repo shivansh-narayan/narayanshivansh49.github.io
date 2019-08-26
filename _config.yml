@@ -4,8 +4,8 @@
 # IMPORTANT: Set the URL of your site.
 # Set to https://<username>.github.io when hosting on GitHub Pages
 # (unless you are using a custom domain).
-url:                   https://photocyte.github.io
-github_username:       photocyte
+url:                   https://narayanshivansh49.github.io
+github_username:       narayanshivansh49
 
 # IMPORTANT: Set The "base URL" of your site.
 # When your site sits in a subdirectory, set to /<name of directory>
@@ -20,7 +20,7 @@ baseurl:               ''
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Timothy R. Fallon
+title:                 Shivansh
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
@@ -30,7 +30,7 @@ description:           >
 
 # A shorter description for the sidebar.
 tagline:               >
-  biologist, biochemist, genomics enthusiast, natural products disciple, postdoc @ SIO/UCSD
+  pre final year I.T Student at BIT Mesra
 # A Jekyll theme with JavaScript powers.
 # Open `_config.yml` to edit this text.
 
@@ -40,12 +40,12 @@ keywords:              [biochemistry,natural products,bioinformatics]
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo:                  https://avatars3.githubusercontent.com/u/12517705?s=400&u=b86c907899da6f1ef01c1898a8153cbc46f24c75&v=4
+logo:                 https://avatars3.githubusercontent.com/u/34347884?s=400&u=5ae91062f6c80ee7d43ff0047d8a692f6a457bd0&v=4
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
-  name:                Timothy Fallon
-  email:               tfallon@ucsd.edu
+  name:                Shivansh Narayan
+  email:               narayanshivansh49@gmail.com
   # Used by `jekyll-seo-tag`:
   twitter:             photocyte
   picture:             /images/avatar.png
@@ -62,8 +62,7 @@ menu:
     url:               /posts/
   - title:             Media & Press
     url:               /media_and_press/
-  - title:             FireflyBase.org
-    url:               http://www.fireflybase.org
+
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
@@ -304,11 +303,10 @@ twitter:
 
 # Used on index and about sites
 social:
-   name:                Timothy Fallon
+   name:                Shivansh Narayan
    links:
-     - https://twitter.com/photocyte
-     - https://github.com/photocyte
-     - https://www.fireflybase.org
+     - https://github.com/narayanshivansh49
+     - https://www.linkedin.com/in/shivanshnarayan/
 
 
 # Other Plugins
