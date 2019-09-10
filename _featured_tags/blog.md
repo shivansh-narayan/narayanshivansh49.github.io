@@ -2,8 +2,9 @@
 layout: list
 title: Blog
 slug: blog
-menu: true
+menu: 'false'
 order: 4
-description: >
-    Documenting my miscellaneous thinkings and projects
+description: |
+  Documenting my miscellaneous thinkings and projects
+
 ---
