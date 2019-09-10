@@ -1,5 +1,5 @@
 ---
-layout: list
+layout: post
 title: Blog
 slug: blog
 menu: 'false'
@@ -8,3 +8,5 @@ description: |
   Documenting my miscellaneous thinkings and projects
 
 ---
+rf
+
