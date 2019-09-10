@@ -1,9 +1,8 @@
 ---
-layout: list
+layout: home
 title: Experience
 
 ---
-
 ## Student Developer
 
 *Company Name* Crio.Do
