@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 title: Experience
 
 ---
@@ -16,3 +16,5 @@ I have built a distributed system backend for food order platform, QEats, with J
 [Completion Certificate](https://www.slideshare.net/slideshow/embed_code/key/1LcS4JYmAXrhiT)
 
 [Project & Skill Summary](https://criodo.github.io/csod-2019-narayanshivansh49/#CSOD)
+
+---
