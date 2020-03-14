@@ -6,7 +6,7 @@ title: Education
 
 >2017 – 2021
 
-BE - Bachelor of Engineering, Information Technology, 7.25(Absolute Grading)
+BE - Bachelor of Engineering, Information Technology, 7.32(Absolute Grading)
 
 ## Sunbeam School , Varuna
 
